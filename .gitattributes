@@ -147,3 +147,5 @@ ShadowOfTheTempest/Content/ParagonGideon/Characters/Global/MaterialLayers/Metal/
 ShadowOfTheTempest/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_NRM.uasset filter=lfs diff=lfs merge=lfs -text
 ShadowOfTheTempest/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_ALB.uasset filter=lfs diff=lfs merge=lfs -text
 ShadowOfTheTempest/Content/ParagonNarbash/Characters/Global/MaterialLayers filter=lfs diff=lfs merge=lfs -text
+ShadowOfTheTempest/Content/Sounds/Level1.uasset filter=lfs diff=lfs merge=lfs -text
+ShadowOfTheTempest/Content/Sounds/Level1_Boss.uasset filter=lfs diff=lfs merge=lfs -text
