@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "RunebergVRPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4dfd0c5b4c97427c860bd2cf7c207136"
 		}
 	]
